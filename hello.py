@@ -4,4 +4,4 @@ for i in range(10):
 
 print('New feature')
 print('Super feature')
-print('conflit')
+print('conflits')
